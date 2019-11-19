@@ -1,10 +1,11 @@
 <resources>
     <string name="app_name">Rahmet Business</string>
-    <string name="auth_1">Добро пожаловать!</string>
-    <string name="auth_2">Номер Вашего телефона будет
+    <string name="welcome_text_phone">Номер Вашего телефона будет
 использоваться для авторизации</string>
-    <string name="auth_3">Вы зарегистрированы?</string>
-    <string name="auth_4">Почему Вам нужен Рахмет</string>
-    <string name="welcome_text2">Добро пожаловать!</string>
+    <string name="caption_sign_up">Вы зарегистрированы?</string>
+    <string name="welcome_description">Почему Вам нужен Рахмет</string>
+    <string name="welcome_text">Добро пожаловать!</string>
+    <string name="log_in_btn">Войти</string>
+    <string name="sign_up_btm">Зарегистрироваться</string>
 
 </resources>
