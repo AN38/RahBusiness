@@ -15,7 +15,7 @@
         android:layout_marginBottom="170dp"
         android:adjustViewBounds="true"
         android:cropToPadding="true"
-        android:src="@drawable/ic_rectangle_1"
+        android:src="@drawable/ic_rectangle_wave1"
         app:layout_constraintBottom_toTopOf="@id/wave2"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -28,7 +28,7 @@
         android:layout_marginBottom="35dp"
         android:adjustViewBounds="true"
         android:cropToPadding="true"
-        android:src="@drawable/ic_rectangle_2"
+        android:src="@drawable/ic_rectangle_wave2"
         app:layout_constraintBottom_toTopOf="@id/wave3"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -41,7 +41,7 @@
         android:layout_marginBottom="90dp"
         android:adjustViewBounds="true"
         android:cropToPadding="true"
-        android:src="@drawable/ic_rectangle_wave"
+        android:src="@drawable/ic_rectangle_wave3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent" />
@@ -66,7 +66,7 @@
         android:id="@+id/card"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_rectangle_b"
+        android:src="@drawable/shape_with_top_rounded"
         android:cropToPadding="true"
         android:adjustViewBounds="true"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -130,7 +130,7 @@
         app:layout_constraintBottom_toTopOf="@id/sign_up"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        android:background="@drawable/ic_rectangle_button"
+        android:background="@drawable/shape_button_black"
         android:text="Войти"
         android:textStyle="normal"
         android:fontFamily="Roboto"
@@ -175,6 +175,5 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"/>
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
