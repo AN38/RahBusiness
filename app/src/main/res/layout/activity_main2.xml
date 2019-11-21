@@ -38,12 +38,12 @@
             android:textColor="@color/cardview_dark_background"
             android:textSize="20sp" />
 
-        <TextView
+        <EditText
             android:id="@+id/tvPhoneInformation"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="@string/welcome_text_phone"
+            android:hint="@string/hint"
             android:textAlignment="center"
             android:textColor="#878787"
             android:textSize="14sp" />

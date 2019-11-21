@@ -7,5 +7,6 @@
     <string name="welcome_text">Добро пожаловать!</string>
     <string name="log_in_btn">Войти</string>
     <string name="sign_up_btm">Зарегистрироваться</string>
+    <string name="hint">Подсказка</string>
 
 </resources>
