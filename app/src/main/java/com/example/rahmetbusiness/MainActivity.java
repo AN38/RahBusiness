@@ -15,14 +15,10 @@ public class MainActivity extends AppCompatActivity {
     private Button btnLogIn;
     private EditText etSignupLogin;
 
-    private final String LOGIN = "asasfs";
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-
-        LOGIN = "dasd";
 
         btnLogIn = findViewById(R.id.log_in_btn);
         etSignupLogin = findViewById(R.id.signup_login);
